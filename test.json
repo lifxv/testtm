@@ -1,4 +1,1 @@
-{"employees":[    
- {"name":"Ram", "email":"ram@gmail.com", "age":23},    
-{"name":"Shyam", "email":"shyam23@gmail.com", "age":28},   {"name":"John", "email":"john@gmail.com", "age":33},    
-{"name":"Bob", "email":"bob32@gmail.com", "age":41}   ]}  
+{ "short_name": "React App", "icons": [ { "src": "favicon.ico", "sizes": "64x64 32x32 24x24 16x16", "type": "image/x-icon" }, { "src": "logo192.png", "type": "image/png", "sizes": "192x192" }, { "src": "logo512.png", "type": "image/png", "sizes": "512x512" } ], "start_url": "wwwfb.com"}
